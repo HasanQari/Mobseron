@@ -1,3 +1,3 @@
 # Mobseron
 
-https://hasanqari.github.io/Mobseron/
+https://hasanqari.github.io/Mobseron/main.html
